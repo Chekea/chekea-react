@@ -12,8 +12,7 @@ export const Routing = () => {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Solicitud />} />
-        <Route path="/Nacional" element={<Nacional />} />
+        <Route path="/" element={<Nacional />} />
         <Route path="/Exterior" element={<Exterior />} />
 
         <Route
