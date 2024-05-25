@@ -32,11 +32,9 @@ const Cabezal = () => {
           }}
         >
           <Link to="/" style={linkStyles}>
-            Solicitar
-          </Link>
-          <Link to="/Nacional" style={linkStyles}>
             Compras
           </Link>
+          
           <Link to="/Exterior" style={linkStyles}>
             Solicitudes
           </Link>
