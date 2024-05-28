@@ -29,7 +29,7 @@ const Cabezal = () => {
           }}
         >
           <Link to="/" style={linkStyles}>
-            Nacional
+            Nacion
           </Link>
           
           <Link to="/Exterior" style={linkStyles}>
