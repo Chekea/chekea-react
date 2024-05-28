@@ -13,9 +13,6 @@ const Cabezal = () => {
     color: "white",
   };
 
-  if (isMobile) {
-    return null; // Don't render the AppBar on mobile devices
-  }
 
   return (
     <AppBar position="sticky" color="warning" style={{ top: 0, zIndex: 1000 }}>
