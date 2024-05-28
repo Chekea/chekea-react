@@ -29,11 +29,11 @@ const Cabezal = () => {
           }}
         >
           <Link to="/" style={linkStyles}>
-            Compras
+            Nacional
           </Link>
           
           <Link to="/Exterior" style={linkStyles}>
-            Solicitudes
+            Exterior
           </Link>
           {/* <Link to="/Ventas" style={linkStyles}>
             Ventas
